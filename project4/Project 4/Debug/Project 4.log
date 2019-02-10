@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  Project 4.cpp
+c:\users\jacob\source\repos\project 4\project 4\project 4.cpp(84): error C2027: use of undefined type 'ttree'
+  c:\users\jacob\source\repos\project 4\project 4\project 4.cpp(8): note: see declaration of 'ttree'
+c:\users\jacob\source\repos\project 4\project 4\project 4.cpp(84): error C2228: left of '.insert' must have class/struct/union
+c:\users\jacob\source\repos\project 4\project 4\project 4.cpp(95): error C2027: use of undefined type 'ttree'
+  c:\users\jacob\source\repos\project 4\project 4\project 4.cpp(8): note: see declaration of 'ttree'
+c:\users\jacob\source\repos\project 4\project 4\project 4.cpp(96): error C2027: use of undefined type 'ttree'
+  c:\users\jacob\source\repos\project 4\project 4\project 4.cpp(8): note: see declaration of 'ttree'
+c:\users\jacob\source\repos\project 4\project 4\project 4.cpp(96): error C2227: left of '->setDepth' must point to class/struct/union/generic type
+c:\users\jacob\source\repos\project 4\project 4\project 4.cpp(104): error C2027: use of undefined type 'ttree'
+  c:\users\jacob\source\repos\project 4\project 4\project 4.cpp(8): note: see declaration of 'ttree'
+c:\users\jacob\source\repos\project 4\project 4\project 4.cpp(104): error C2227: left of '->_tnodes' must point to class/struct/union/generic type
+c:\users\jacob\source\repos\project 4\project 4\project 4.cpp(104): error C2228: left of '._words' must have class/struct/union
+c:\users\jacob\source\repos\project 4\project 4\project 4.cpp(104): error C2227: left of '->push_back' must point to class/struct/union/generic type
+c:\users\jacob\source\repos\project 4\project 4\project 4.cpp(108): error C2027: use of undefined type 'ttree'
+  c:\users\jacob\source\repos\project 4\project 4\project 4.cpp(8): note: see declaration of 'ttree'
+c:\users\jacob\source\repos\project 4\project 4\project 4.cpp(108): error C2227: left of '->insert' must point to class/struct/union/generic type
