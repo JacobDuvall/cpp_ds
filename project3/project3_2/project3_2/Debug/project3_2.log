@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  project3_2.cpp
+c:\users\jacob\source\repos\project3_2\project3_2\project3_2.cpp(106): warning C4715: 'SortedArray<int>::binarySearch': not all control paths return a value
+  project3_2.vcxproj -> C:\Users\Jacob\source\repos\project3_2\Debug\project3_2.exe
