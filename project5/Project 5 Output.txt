@@ -1,0 +1,62 @@
+Before insertion sort: 30000 9596 8891 7559 16059 10955 10820 2253 7814 12497
+After insertion sort: 1488 2232 2253 2364 5242 7003 7011 7559 7814 8891
+
+Before selection sort: 30000 9596 8891 7559 16059 10955 10820 2253 7814 12497
+After selection sort: 1488 2232 2253 2364 5242 7003 7011 7559 7814 8891
+
+Before heap sort: 30000 9596 8891 7559 16059 10955 10820 2253 7814 12497
+After heap sort: 1488 2232 2253 2364 5242 7003 7011 7559 7814 8891
+
+Before quick sort: 30000 9596 8891 7559 16059 10955 10820 2253 7814 12497
+After quick sort: 1488 2232 2253 2364 5242 7003 7011 7559 7814 8891
+
+
+insertion sort (1000) average: 1889
+selection sort (1000) average: 3897
+heap sort (1000) average: 1443
+quick sort (1000) average: 672
+
+insertion sort (1500) average: 4198
+selection sort (1500) average: 8127
+heap sort (1500) average: 2158
+quick sort (1500) average: 1118
+
+insertion sort (2000) average: 7132
+selection sort (2000) average: 14977
+heap sort (2000) average: 3338
+quick sort (2000) average: 1454
+
+insertion sort (2500) average: 10831
+selection sort (2500) average: 22654
+heap sort (2500) average: 4104
+quick sort (2500) average: 1796
+
+insertion sort (3000) average: 16317
+selection sort (3000) average: 32730
+heap sort (3000) average: 4704
+quick sort (3000) average: 2159
+
+insertion sort (3300) average: 18473
+selection sort (3300) average: 38222
+heap sort (3300) average: 5315
+quick sort (3300) average: 2534
+
+insertion sort (3500) average: 22197
+selection sort (3500) average: 43309
+heap sort (3500) average: 5810
+quick sort (3500) average: 2702
+
+insertion sort (4000) average: 26889
+selection sort (4000) average: 53289
+heap sort (4000) average: 6408
+quick sort (4000) average: 2908
+
+insertion sort (4500) average: 33048
+selection sort (4500) average: 67281
+heap sort (4500) average: 7095
+quick sort (4500) average: 3381
+
+insertion sort (5000) average: 41702
+selection sort (5000) average: 82409
+heap sort (5000) average: 8138
+quick sort (5000) average: 3917

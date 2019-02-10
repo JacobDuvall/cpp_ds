@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  Project 5.cpp
+c:\users\jacob\source\repos\project 5\project 5\project 5.cpp(41): warning C4101: 'i': unreferenced local variable
+c:\users\jacob\source\repos\project 5\project 5\project 5.cpp(221): warning C4244: 'argument': conversion from 'LONGLONG' to 'int', possible loss of data
+c:\users\jacob\source\repos\project 5\project 5\project 5.cpp(229): warning C4244: 'argument': conversion from 'LONGLONG' to 'int', possible loss of data
+c:\users\jacob\source\repos\project 5\project 5\project 5.cpp(237): warning C4244: 'argument': conversion from 'LONGLONG' to 'int', possible loss of data
+c:\users\jacob\source\repos\project 5\project 5\project 5.cpp(245): warning C4244: 'argument': conversion from 'LONGLONG' to 'int', possible loss of data
+  Project 5.vcxproj -> C:\Users\Jacob\source\repos\Project 5\Debug\Project 5.exe
